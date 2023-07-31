@@ -14,7 +14,7 @@ A Chrome Extension to set new `accessToken` and `refreshToken` during local deve
 
 ##### Or
 
-1. Download [dev_auth_extension-1.2.2-fx.xpi](https://github.com/kritish-dhaubanjar/dev-auth-chrome-extension/releases/download/v1.2.2/dev_auth_extension-1.2.2-fx.xpi)
+1. Download [dev_auth_extension-1.2.2-fx.xpi](https://github.com/jonrin0213/dev-auth-chrome-extension/releases/download/v1.2.2/dev_auth_extension-1.2.2-fx.xpi)
 2. Open the Extension Management page by navigating to `about:addons`.
 3. Drag and drop `dev_auth_extension-1.2.2-fx.xpi` into `about:addons` page.
 
@@ -23,7 +23,7 @@ A Chrome Extension to set new `accessToken` and `refreshToken` during local deve
 
 ##### Or
 
-1. Download [dev_auth_extension-1.2.2.zip](https://github.com/kritish-dhaubanjar/dev-auth-chrome-extension/releases/download/v1.2.2/dev_auth_extension-1.2.2.zip)
+1. Download [dev_auth_extension-1.2.2.zip](https://github.com/jonrin0213/dev-auth-chrome-extension/releases/download/v1.2.2/dev_auth_extension-1.2.2.zip)
 1. Open the Extension Management page by navigating to `chrome://extensions`.
 2. Enable Developer Mode by clicking the toggle switch next to `Developer mode`.
 3. Drag and drop `dev_auth_extension-1.2.2.zip` into `chrome://extensions` page.
@@ -35,7 +35,7 @@ A Chrome Extension to set new `accessToken` and `refreshToken` during local deve
 ## Development setup
 
 ```shell
-git clone https://github.com/kritish-dhaubanjar/dev-auth-chrome-extension.git
+git clone https://github.com/jonrin0213/dev-auth-chrome-extension.git
 
 cd dev-auth-chrome-extension
 
@@ -86,16 +86,4 @@ yarn build:watch
     * ADD: Clipboard to copy accessToken
 * 0.1.0
     * Work in progress
- 
 
-
-## Contributors ✨
-
-Thanks goes to these wonderful people:
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/maskeynihal"><img src="https://avatars.githubusercontent.com/u/26411488?v=4" width="100px;" alt=""/><br /><sub><b>Nihal Maskey</b></sub></a><br /><a href="https://github.com/kritish-dhaubanjar/dev-auth-chrome-extension/commits?author=maskeynihal" title="Commits">📖</a><a href="https://github.com/kritish-dhaubanjar/dev-auth-chrome-extension/issues?q=author%3Amaskeynihal" title="Bug Reports">🐛</a></td>
-    <td align="center"><a href="https://github.com/RikLakhe"><img src="https://avatars.githubusercontent.com/u/25451595?v=4" width="100px;" alt=""/><br /><sub><b>Rikesh Lal Shrestha</b></sub></a><br /><a href="https://github.com/kritish-dhaubanjar/dev-auth-chrome-extension/issues?q=author%3ARikLakhe" title="Bug Reports">🐛</a></td>
-  </tr>
-</table>
